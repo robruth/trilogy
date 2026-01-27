@@ -173,3 +173,7 @@ And like *Beyond the Veil*, the Bible ultimately offers no ultimatum. Only an op
 
 Not a demand for belief.  
 But an invitation to see.
+
+
+
+*“Open my eyes, that I may behold wondrous things out of Your law.”* - **Luke 24:45**

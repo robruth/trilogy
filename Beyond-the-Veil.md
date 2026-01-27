@@ -182,3 +182,5 @@ A refusal to escalate what does not need to escalate.
 In a universe still awakening to itself, these small acts are not insignificant.
 
 They are how participation becomes care.
+
+*"My eyes are open Lord, show me to your Kingdom"*
