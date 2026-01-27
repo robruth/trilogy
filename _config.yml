@@ -1,6 +1,6 @@
 title: Threshold Trilogy
 description: Anomalies, participation, and resonance
-theme: jekyll-theme-minimal  # Or any default Jekyll theme; this keeps styling clean
+theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   math_engine: mathjax  # Enables MathJax processing
