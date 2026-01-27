@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Or appropriate title
+---
+
 # **Beyond the Veil**
 
 ## **A Participatory Cosmos Awakening to Itself**

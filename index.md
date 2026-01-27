@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Or appropriate title
+---
+
 # Threshold
 
 ## A Preface to the Trilogy

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Or appropriate title
+---
+
 # **The Word Beneath the World**
 
 ### A Christian Resonance Companion to *Beyond the Veil*
