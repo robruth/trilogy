@@ -1,7 +1,8 @@
 title: Threshold Trilogy
 description: Anomalies, participation, and resonance
-theme: jekyll-theme-primer 
+theme: minima  # Change to cayman or architect to try others
 markdown: kramdown
 kramdown:
-  math_engine: mathjax  # Enables MathJax processing
+  math_engine: mathjax
   input: GFM
+permalink: pretty  # Removes .html from URLs (e.g., /60-Core-Anomalies → /60-core-anomalies/)
