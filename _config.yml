@@ -1,0 +1,7 @@
+title: Threshold Trilogy
+description: Anomalies, participation, and resonance
+theme: jekyll-theme-primer 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax  # Enables MathJax processing
+  input: GFM
