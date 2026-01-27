@@ -1,7 +1,5 @@
 ---
-layout: default  # Or 'page'/'post' depending on theme
-title: Sixty Core Anomalies Challenging Local-Materialist Realism
-permalink: /anomalies/  # Optional: custom clean URL
+title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Match page
 ---
 
 # **Beyond the Veil**
