@@ -34,7 +34,7 @@ None of these tensions, taken alone, is decisive.
 
 But taken together, **sixty such anomalies across physics, cosmology, and consciousness**, they form something harder to dismiss. Not a refutation of existing theory, but a cumulative pressure. A pattern of stress points suggesting that the picture we rely on may be incomplete in a more fundamental way than incremental fixes can resolve.
 
-Three recurring motifs emerge most strongly from the deepest anomalies: non-loc $\non$-locality (correlations that transcend space and time), observer-dependence (outcomes shaped by interaction or context), and the primacy of information (patterns and boundaries more fundamental than "stuff" in space, as hinted by holographic principles).
+Three recurring motifs emerge most strongly from the deepest anomalies: non-loc \ non-locality (correlations that transcend space and time), observer-dependence (outcomes shaped by interaction or context), and the primacy of information (patterns and boundaries more fundamental than "stuff" in space, as hinted by holographic principles).
 
 ------
 
