@@ -1,6 +1,6 @@
 # 60 Core Anomalies Challenging Local-Materialist Realism
 
-A curated reference list of **60 core anomalies** (as of January 26, 2026) that collectively challenge the paradigm of a strictly local, observer-independent, classical-material reality.
+A curated reference list of **60 core anomalies** (as of January 2026) that collectively challenge the paradigm of a strictly local, observer-independent, classical-material reality.
 
 This list focuses on the most persistent and foundational challenges, excluding standard features of quantum mechanics/relativity and observational tensions weakened or resolved by recent data. The list is divided into:
 
