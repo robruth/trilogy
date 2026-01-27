@@ -1,5 +1,5 @@
 ---
-title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Match page
+title: Beyond the Veil
 ---
 
 # **Beyond the Veil**

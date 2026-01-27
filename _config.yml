@@ -1,8 +1,7 @@
 title: Threshold Trilogy
 description: Anomalies, participation, and resonance
-theme: minima  # Keep your chosen theme
+theme: jekyll-theme-cayman  # Switch to this
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-# Remove or comment out: permalink: pretty

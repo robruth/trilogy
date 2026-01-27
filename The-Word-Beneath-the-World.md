@@ -1,5 +1,5 @@
 ---
-title: Sixty Core Anomalies Challenging Local-Materialist Realism  # Match page
+title: The Word Beneath the World 
 ---
 
 # **The Word Beneath the World**
