@@ -1,8 +1,8 @@
 title: Threshold Trilogy
 description: Anomalies, participation, and resonance
-theme: minima  # Change to cayman or architect to try others
+theme: minima  # Keep your chosen theme
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-permalink: pretty  # Removes .html from URLs (e.g., /60-Core-Anomalies → /60-core-anomalies/)
+# Remove or comment out: permalink: pretty
