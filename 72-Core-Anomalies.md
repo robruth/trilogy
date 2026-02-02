@@ -901,4 +901,4 @@ It's not just one weird thing—everything deepest keeps screaming that reality 
 
 **Implied by:** Overall pattern in 1–22 especially, plus 51–62  
 
-**Strength Score: 7/10
+**Strength Score: 7/10**
