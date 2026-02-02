@@ -8,7 +8,7 @@ title: Threshold
 
 This small collection began with a simple intention: to gather the most persistent cracks in the dominant picture of reality without leaping to conclusions about what lay beyond them.
 
-The first document, [Sixty Core Anomalies Challenging Local-Materialist Realism](60-Core-Anomalies.md), is an exercise in disciplined negation. It assembles empirical and theoretical tensions that refuse to settle comfortably within a strictly local, observer-independent, classical-material framework. No interpretation is imposed; only the anomalies are allowed to speak. As of January 2026, these remain the deepest and most stubborn challenges across physics, cosmology, and consciousness studies.
+The first document, [Seventy Two Core Anomalies Challenging Local-Materialist Realism](72-Core-Anomalies.md), is an exercise in disciplined negation. It assembles empirical and theoretical tensions that refuse to settle comfortably within a strictly local, observer-independent, classical-material framework. No interpretation is imposed; only the anomalies are allowed to speak. As of January 2026, these remain the deepest and most stubborn challenges across physics, cosmology, and consciousness studies.
 
 The second document, *[Beyond the Veil — A Participatory Cosmos Awakening to Itself](Beyond-the-Veil.md)*, takes one cautious step forward. It does not claim to resolve the anomalies. It merely sketches a minimal ontology that appears invited—not required—by their cumulative pattern: a reality that is non-local, observer-dependent, and structured by information rather than insensate matter in pre-given spacetime. This is offered not as a new dogma but as an opening, a loosening of old assumptions.
 
@@ -24,6 +24,6 @@ The resonance, for some, may quietly grow.
 
 ## The Trilogy
 
-- [Sixty Core Anomalies Challenging Local-Materialist Realism](60-Core-Anomalies.md)
+- [Seventy Two Core Anomalies Challenging Local-Materialist Realism](72-Core-Anomalies.md)
 - [Beyond the Veil — A Participatory Cosmos Awakening to Itself](Beyond-the-Veil.md)
 - [The Word Beneath the World — A Christian Resonance Companion](The-Word-Beneath-the-World.md)
