@@ -20,8 +20,6 @@ The anomalies remain.
 The questions deepen.  
 The resonance, for some, may quietly grow.
 
-— January 2026
-
 ## The Trilogy
 
 - [Seventy Two Core Anomalies Challenging Local-Materialist Realism](72-Core-Anomalies.md)
